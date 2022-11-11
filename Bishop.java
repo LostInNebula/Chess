@@ -1,5 +1,4 @@
 
-// Written by Gresham Basic, basic009
 public class Bishop {
     private int row;
     private int col; 
