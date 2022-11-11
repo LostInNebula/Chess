@@ -1,4 +1,4 @@
-// Written by Gresham Basic, basic009
+
 public class King {
     private int row;
     private int col; 
