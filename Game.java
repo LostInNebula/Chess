@@ -1,4 +1,4 @@
-// Written by Gresham Basic, basic009
+
 import java.util.Scanner;
 public class Game {
 
