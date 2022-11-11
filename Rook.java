@@ -1,4 +1,4 @@
-// Written by Gresham Basic, basic009
+
 public class Rook {
 
     private int row;
