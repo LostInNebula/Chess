@@ -8,3 +8,4 @@
 •Any known bugs or defects in the program
     - cause is unknown but on occasion some pieces will refuse to cross rows 3 and 4
 
+NEITHER THE "Piece.java" NOR THE "Fen.java" FILES WERE WRITTEN BY ME
