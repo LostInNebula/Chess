@@ -79,5 +79,3 @@ public class Game {
         moveScanner.close();
     }
 }
-
-// doesnt know what to do when invalid, it is breaking after a turn, it isn't switching who goes next
